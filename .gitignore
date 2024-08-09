@@ -1,0 +1,7 @@
+# Ignore Updraft backups
+wp-content/updraft/
+
+# Ignore All-in-One WP Migration backups
+wp-content/ai1wm-backups/
+
+
